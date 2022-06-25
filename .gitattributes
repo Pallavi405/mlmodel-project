@@ -1,3 +1,2 @@
-clean_data filter=lfs diff=lfs merge=lfs -text
 /clean_data/clean_test_dataframe.csv filter=lfs diff=lfs merge=lfs -text
 /clean_data/clean_train_dataframe.csv filter=lfs diff=lfs merge=lfs -text
